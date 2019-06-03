@@ -1,5 +1,5 @@
 {
-    "name": "hamidjavadi/guid",
+    "name": "hamidjavadi/numeric-token",
     "description": "Simple class to generate numeric tokens",
     "keywords": ["token", "composer", "package"],
     "license": "MIT",
