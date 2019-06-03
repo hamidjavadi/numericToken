@@ -6,7 +6,7 @@ Simple class to generate numeric tokens
 
 Via Composer
 ``` bash
-$ composer require hamidjavadi/numerictoken
+$ composer require hamidjavadi/numeric-token
 ```
 
 
