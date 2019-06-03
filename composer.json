@@ -1,0 +1,20 @@
+{
+    "name": "hamidjavadi/guid",
+    "description": "Simple class to generate numeric tokens",
+    "keywords": ["token", "composer", "package"],
+    "license": "MIT",
+    "type": "library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Hamid javadi",
+            "email": "javadi.freelancer@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {}
+}
